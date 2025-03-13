@@ -19,11 +19,11 @@ Fitur utama dalam proyek ini meliputi:
 
 ## 🔧 **Instalasi & Penggunaan**
 ### 1️⃣ **Jalankan Server di PC**
-1. **Clone repository ini** atau salin file `RATServer.java`
+1. **Clone repository ini** atau salin file `server.java`
 2. **Compile dan jalankan server:**
     ```bash
-    javac RATServer.java
-    java RATServer
+    javac server.java
+    java server
     ```
 
 ### 2️⃣ **Jalankan Client di HP (Termux)**
